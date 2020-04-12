@@ -6,7 +6,6 @@
   <img src = "https://img.shields.io/badge/CSS-3-red"> 
     <img src = "https://img.shields.io/badge/PHP-7.2-purple">
 </p>
-_____
 
 ## About 
 
