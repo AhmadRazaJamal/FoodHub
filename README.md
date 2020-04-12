@@ -1,4 +1,4 @@
-<p align="center"><img width=40.5% src="https://github.com/AhmadRazaJamal/FoodHub/blob/master/FoodHub.JPG"></p>
+<p align="center"><img width=40.5% src="https://github.com/AhmadRazaJamal/FoodHub/blob/master/logo2.JPG"></p>
 <h1 align="center">Food Hub</h1>
 
 <p align="center">
